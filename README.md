@@ -5,3 +5,4 @@ environment of the game is the imitation of “Christ University faculty of engi
 campus and same has been created using Blender. Each part of the campus is precisely
 taken care of in this game. Unity as a platform is used for scripting (C#), prefabs,
 physics collisions, navmesh, pathfinding and rendering of the objects.
+![alt tag](https://raw.githubusercontent.com/SergeyMakeev/ArcadeCarPhysics/master/ArcadeCarPhysics.gif)
