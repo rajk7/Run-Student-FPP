@@ -1,4 +1,4 @@
-# collecting-coin-FPP
+# Run-Student-FPP
 The objective of this project is to develop PC game which includes single
 player with different modes such as student mode, car mode and zombie mode. The
 environment of the game is the imitation of “Christ University faculty of engineering”
